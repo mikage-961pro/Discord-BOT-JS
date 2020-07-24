@@ -1,9 +1,10 @@
-# Discord-BOT-JS
-
 # Discord Bot
 
 エウレカさんが挨拶してくれると嬉しいな。から始まったBotプロジェクト。
 Node.jsとDiscord.jsで動かしてます。
+
+pythonでやりたい人はこっち。
+https://github.com/mikage-961pro/Discord-Bot
 
 # BotをJoinさせる
 
@@ -11,3 +12,5 @@ Node.jsとDiscord.jsで動かしてます。
 
 
 テンプレートでの動作となってるため、プルリクエストなど大歓迎
+
+
